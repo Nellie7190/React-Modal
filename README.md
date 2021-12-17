@@ -1,9 +1,11 @@
 # React-Modal
-How to create a Modal
+A functional Modal
 
 ### `Technologies Used`
 - React
 - JavaScript
+- HTML
+- CSS
 
 
 # Getting Started with Create React App
